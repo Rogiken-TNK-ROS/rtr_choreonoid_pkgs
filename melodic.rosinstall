@@ -1,11 +1,11 @@
 - git:
     local-name: choreonoid
-    uri: https://github.com/WRS-TNK/choreonoid.git
-    version: develop
+    uri: https://github.com/choreonoid/choreonoid.git
+    version: master
 - git:
-    local-name: choreonoid_ros_pkgs
-    uri: git@gitlab.com:rogiken-tnk-ros/choreonoid_ros_pkgs.git
-    version: develop
+    local-name: choreonoid_ros
+    uri: https://github.com/RyodoTanaka/choreonoid_ros.git
+    version: dev/ros-control
 - git:
     local-name: rtr_choreonoid
     uri: git@gitlab.com:rogiken-tnk-ros/rtr_choreonoid.git
