@@ -14,3 +14,7 @@
     local-name: wrs_projects
     uri: https://github.com/WRS-TNK/wrs_projects.git
     version: develop
+- git:
+    local-name: WRS2020SG
+    uri: https://github.com/WRS-TDRRC/WRS-TDRRC-2020SG1.git
+    version: master
