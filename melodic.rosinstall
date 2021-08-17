@@ -15,6 +15,10 @@
     uri: git@gitlab.com:rogiken-tnk-ros/rtr_common.git
     version: develop
 - git:
+    local-name: rtr_control
+    uri: git@gitlab.com:rogiken-tnk-ros/rtr_control.git
+    version: develop
+- git:
     local-name: wrs_projects
     uri: https://github.com/WRS-TNK/wrs_projects.git
     version: develop
