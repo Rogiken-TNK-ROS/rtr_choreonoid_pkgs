@@ -1,7 +1,7 @@
 - git:
     local-name: choreonoid
     uri: https://github.com/choreonoid/choreonoid.git
-    version: master
+    version: WRS2020
 - git:
     local-name: choreonoid_ros
     uri: https://github.com/RyodoTanaka/choreonoid_ros.git
