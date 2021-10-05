@@ -4,8 +4,8 @@
     version: WRS2020
 - git:
     local-name: choreonoid_ros
-    uri: https://github.com/RyodoTanaka/choreonoid_ros.git
-    version: dev/ros-control
+    uri: git@gitlab.com:rogiken-tnk-ros/choreonoid_ros.git
+    version: wrs2020
 - git:
     local-name: rtr_choreonoid
     uri: git@gitlab.com:rogiken-tnk-ros/rtr_choreonoid.git
