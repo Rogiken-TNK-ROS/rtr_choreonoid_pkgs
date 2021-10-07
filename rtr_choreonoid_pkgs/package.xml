@@ -13,9 +13,8 @@
 
   <buildtool_depend>catkin</buildtool_depend>
   <exec_depend>choreonoid</exec_depend>
-  <exec_depend>choreonoid_ros_pkgs</exec_depend>
+  <exec_depend>choreonoid_ros</exec_depend>
   <exec_depend>rtr_choreonoid</exec_depend>
-  <exec_depend>wrs_projects</exec_depend>
   
   <export>
     <metapackage/>
